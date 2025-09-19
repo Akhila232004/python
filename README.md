@@ -266,6 +266,8 @@
         * [Requests](./python-libraries/requests/requests.md)
         * [Email](./python-libraries/email/email.md)
         * [Pytz](./python-libraries/pytz/pytz.md)
+        * [Unittest](./python-libraries/unittest/unittest.md)
+        * [Poetry](./python-libraries/poetry/poetry.md)
         * [Pytest](./python-libraries/pytest/pytest.md)
         * [Pandas](./python-libraries/pandas/pandas.md)
         * [`input()`](./python-libraries/input/input.md)
