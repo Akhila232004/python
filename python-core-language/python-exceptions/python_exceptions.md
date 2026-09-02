@@ -59,7 +59,9 @@ try:
 except ZeroDivisionError:
     # Code to handle the exception
     print("Error: Division by zero")
-# OUTPUT: Error: Division by zero
+
+# OUTPUT:ERROR!
+#        Error: Division by zero
 
 
 
