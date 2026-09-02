@@ -274,6 +274,15 @@ for value in my_dict.values():
 
 for key, value in my_dict.items():
     print(key, value)
+# OUTPUT:name
+#        age
+#        gender
+#        John
+#        30
+#        Male
+#        name John
+#        age 30
+#        gender Male
 ```
 
 ## Looping Through Index
