@@ -244,7 +244,7 @@ print ('test'.ljust(10,'+'))
 text = "Hello"
 l_padded_text = text.ljust(10, '*')
 print(l_padded_text)  # Output: Hello*****
-print(l_padded_text.ljust(15,' '))
+print(l_padded_text.ljust(15,' '))   # Output: Hello*****  
 
 
 
@@ -255,7 +255,7 @@ print ('test'.center(10,'+'))
 text = "Hello"
 centered_text = text.center(11, '*')
 print(centered_text)  # Output: ***Hello***
-print(centered_text.center(15,' '))
+print(centered_text.center(15,' ')) #OUTPUT:    ***Hello*** 
 
 
 
@@ -266,7 +266,7 @@ print ('test'.rjust(10,'+'))
 text = "Hello"
 r_padded_text = text.rjust(10, '*')
 print(r_padded_text)  # Output: "*****Hello"
-print(r_padded_text.rjust(15,' '))
+print(r_padded_text.rjust(15,' '))#OUTPUT:      *****Hello
 ```
 ### Searching Methods:
 * `index(str,start,end)`: If start index and end index not specified, Returns the index of the first occurrence of specifiedsubstring within the string. If start and end index specified, returns the index of the first occurence of specifiedsubstring within those indexes. If the substring is not found, it raises a `ValueError`.
