@@ -141,24 +141,24 @@ print(var_string_case_test.capitalize())  # OUTPUT:  Learn python
 * `endswith(str, start, end)`: Checks and returns `True` if the string ends with the specified string characters, otherwiseit returns `False`. Optionally, if specified start and end index it searches within that and returns the required boolean.
 ```python
 # Checking if the string is UpperCase
-print ('PYTHON'.isupper())   # Prints true
+print ('PYTHON'.isupper())   # OUTPUT: True
 v = 'PYTHON'
 print (v.isupper())   # Prints true
 
 # Checking if the string is lowerCase
-print ('PYTHON'.islower())   # Prints false
+print ('PYTHON'.islower())   # OUTPUT: False
 
 # Checking if the string has only alphabets
-print ('PYTHON01'.isdigit()) # Prints false
+print ('PYTHON01'.isdigit()) # OUTPUT: False
 
 # Checking if the string has only numerics
-print ('1000'.isnumeric()) # Prints true
+print ('1000'.isnumeric()) # OUTPUT: True
 
 # Checking if the string has only alphabets and numerics
-print ('PYTHON01'.isalnum()) # Prints true
+print ('PYTHON01'.isalnum()) # OUTPUT: True
 
 # Checking if the string has whitespace (space/tab) only
-print ('  '.isspace()) # Prints true
+print ('  '.isspace()) # OUTPUT: True
 
 # Checking startswith
 text = "Hello, world!"
