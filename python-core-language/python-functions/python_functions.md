@@ -689,6 +689,7 @@ print('After passing by value to function, source_list: ', source_list_2)
 def modify_tuple(t):
     t = (4, 5, 6)
     print(t)
+# OUTPUT: (4, 5, 6)
 
 my_tuple = (1, 2, 3)
 modify_tuple(my_tuple)
