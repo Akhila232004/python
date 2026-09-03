@@ -65,7 +65,8 @@ print(f1.__sizeof__() + f2.__sizeof__())
 #         2000000
 #         112
 ```
-
+* Saving the above code file with name `run_functional.py`.
+  
 ## Create an Object Oriented Programming code
 * Here we create a Class (Object Oriented Programming code) with the same functionality of the functional programming code.
 ```python
