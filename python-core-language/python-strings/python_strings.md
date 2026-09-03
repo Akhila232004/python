@@ -78,12 +78,15 @@ var_test_string = "Python is cool"
 # Slicing part of the string using [number:]
 # Prints string from specified index position to end of string
 print(var_test_string[6:])
+#OUTPUT: is cool
 
 # Prints string from specified index position to end of string
 print(var_test_string[-4:])
+#OUTPUT: cool
 
 # Prints a part of the string between the specified index position
 print(var_test_string[4:10])
+#OUTPUT: on is 
 
 # OUT oF range indexes
 var_my_string  = "four"
