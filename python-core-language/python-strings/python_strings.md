@@ -26,16 +26,16 @@ var_string_3 = """Welcome to python
 tutorials by tinitiate.com, This is a multi line string
 as you can see using double quotes"""
 #OUTPUT: Welcome to python 
-         tutorials by tinitiate.com, This is a multi line string
-         as you can see using double quotes
+#OUTPUT: tutorials by tinitiate.com, This is a multi line string
+#OUTPUT: as you can see using double quotes
 
 # Multi line string using THREE SINGLE QUOTES
 var_string_4 = '''Welcome to python 
 tutorials by tinitiate.com, This is a multi line string
 as you can see using single quotes'''
 #OUTPUT: Welcome to python 
-         tutorials by tinitiate.com, This is a multi line string
-         as you can see using single quotes
+#OUTPUT: tutorials by tinitiate.com, This is a multi line string
+#OUTPUT: as you can see using single quotes
 
 # Print the above strings
 print(var_string_1)
