@@ -15,19 +15,27 @@
 ```python
 # String using DOUBLE QUOTES
 var_string_1 = "DOUBLE QUOTES STRING:Python tutorials by tinitiate.com"
+# OUTPUT: DOUBLE QUOTES STRING:Python tutorials by tinitiate.com
 
 # String using SINGLE QUOTES
 var_string_2 = 'SINGLE QUOTES STRING: Python tutorials by tinitiate.com'
+#OUTPUT: SINGLE QUOTES STRING: Python tutorials by tinitiate.com
 
 # Multi line string using THREE DOUBLE QUOTES
 var_string_3 = """Welcome to python 
 tutorials by tinitiate.com, This is a multi line string
 as you can see using double quotes"""
+#OUTPUT: Welcome to python 
+#OUTPUT: tutorials by tinitiate.com, This is a multi line string
+#OUTPUT: as you can see using double quotes
 
 # Multi line string using THREE SINGLE QUOTES
 var_string_4 = '''Welcome to python 
 tutorials by tinitiate.com, This is a multi line string
 as you can see using single quotes'''
+#OUTPUT: Welcome to python 
+#OUTPUT: tutorials by tinitiate.com, This is a multi line string
+#OUTPUT: as you can see using single quotes
 
 # Print the above strings
 print(var_string_1)
@@ -45,13 +53,16 @@ var_test_string = "Python is cool"
 # Index starts from 0, 
 # This prints the first character of the string 
 print('First character of variable var_test_string: ', var_test_string[0])
+#OUTPUT: First character of variable var_test_string:  P
 
 # Index of the last character is -1
 print('Last character of variable var_test_string: ',var_test_string[-1])
+#OUTPUT: Last character of variable var_test_string:  l
 
 # Print forth character from the end
 print('Fourth character from the end of variable var_test_string: '
        ,var_test_string[-4])
+#OUTPUT: Fourth character from the end of variable var_test_string:  c
 
 # OUT oF range indexes
 # When specifing indexes that don't exist is a string, it fails
@@ -67,12 +78,15 @@ var_test_string = "Python is cool"
 # Slicing part of the string using [number:]
 # Prints string from specified index position to end of string
 print(var_test_string[6:])
+#OUTPUT: is cool
 
 # Prints string from specified index position to end of string
 print(var_test_string[-4:])
+#OUTPUT: cool
 
 # Prints a part of the string between the specified index position
 print(var_test_string[4:10])
+#OUTPUT: on is 
 
 # OUT oF range indexes
 var_my_string  = "four"
@@ -127,24 +141,24 @@ print(var_string_case_test.capitalize())  # OUTPUT:  Learn python
 * `endswith(str, start, end)`: Checks and returns `True` if the string ends with the specified string characters, otherwiseit returns `False`. Optionally, if specified start and end index it searches within that and returns the required boolean.
 ```python
 # Checking if the string is UpperCase
-print ('PYTHON'.isupper())   # Prints true
+print ('PYTHON'.isupper())   # OUTPUT: True
 v = 'PYTHON'
 print (v.isupper())   # Prints true
 
 # Checking if the string is lowerCase
-print ('PYTHON'.islower())   # Prints false
+print ('PYTHON'.islower())   # OUTPUT: False
 
 # Checking if the string has only alphabets
-print ('PYTHON01'.isdigit()) # Prints false
+print ('PYTHON01'.isdigit()) # OUTPUT: False
 
 # Checking if the string has only numerics
-print ('1000'.isnumeric()) # Prints true
+print ('1000'.isnumeric()) # OUTPUT: True
 
 # Checking if the string has only alphabets and numerics
-print ('PYTHON01'.isalnum()) # Prints true
+print ('PYTHON01'.isalnum()) # OUTPUT: True
 
 # Checking if the string has whitespace (space/tab) only
-print ('  '.isspace()) # Prints true
+print ('  '.isspace()) # OUTPUT: True
 
 # Checking startswith
 text = "Hello, world!"
@@ -230,7 +244,7 @@ print ('test'.ljust(10,'+'))
 text = "Hello"
 l_padded_text = text.ljust(10, '*')
 print(l_padded_text)  # Output: Hello*****
-print(l_padded_text.ljust(15,' '))
+print(l_padded_text.ljust(15,' '))   # Output: Hello*****  
 
 
 
@@ -241,7 +255,7 @@ print ('test'.center(10,'+'))
 text = "Hello"
 centered_text = text.center(11, '*')
 print(centered_text)  # Output: ***Hello***
-print(centered_text.center(15,' '))
+print(centered_text.center(15,' ')) #OUTPUT:    ***Hello*** 
 
 
 
@@ -252,7 +266,7 @@ print ('test'.rjust(10,'+'))
 text = "Hello"
 r_padded_text = text.rjust(10, '*')
 print(r_padded_text)  # Output: "*****Hello"
-print(r_padded_text.rjust(15,' '))
+print(r_padded_text.rjust(15,' '))#OUTPUT:      *****Hello
 ```
 ### Searching Methods:
 * `index(str,start,end)`: If start index and end index not specified, Returns the index of the first occurrence of specifiedsubstring within the string. If start and end index specified, returns the index of the first occurence of specifiedsubstring within those indexes. If the substring is not found, it raises a `ValueError`.

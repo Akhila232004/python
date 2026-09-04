@@ -59,7 +59,9 @@ try:
 except ZeroDivisionError:
     # Code to handle the exception
     print("Error: Division by zero")
-# OUTPUT: Error: Division by zero
+
+# OUTPUT:ERROR!
+#        Error: Division by zero
 
 
 
@@ -158,7 +160,6 @@ except ZeroDivisionError:
 except Exception as e:
     print("An error occurred:", e)
 # INPUT 1: a
-# INPUT 2: 1 
 # OUTPUT : Error: Please enter valid integers
 
 # INPUT 1: 1
