@@ -52,7 +52,7 @@
         * Bitwise Operators
         * Identity Operators
         * Membership Operators
-    * ### [Python Strings](https://github.com/Akhila232004/python-core-language/blob/main/python-strings/python_strings.md)
+    * ### [Python Strings](https://github.com/Akhila232004/python-core-language/blob/main/python-strings/md/python_strings.md)
         * Creating Strings
         * String Indexing/Accessing Characters in Strings
         * String Slicing
@@ -67,7 +67,7 @@
         *  String Formatting
         * String Operations
         * String Immutability
-    * ### [Python Lists](https://github.com/Akhila232004/python-core-language/blob/main/python-lists/python_lists.md)
+    * ### [Python Lists](https://github.com/Akhila232004/python-core-language/blob/main/python-lists/md/python_lists.md)
         * Creating Lists
         * Accessing Elements in Lists
         * Accessing Nested List Elements
@@ -77,7 +77,7 @@
         * Modifying Lists
         * List Comprehensions
         * Conclusion
-    * ### [Python Sets](https://github.com/Akhila232004/python-core-language/blob/main/python-sets/python_sets.md)
+    * ### [Python Sets](https://github.com/Akhila232004/python-core-language/blob/main/python-sets/md/python_sets.md)
         * Creating Sets
         * Modifying Sets
         * Set Operations
@@ -85,7 +85,7 @@
         * Set Membership Testing
         * Frozen Sets or Immutable Sets
         * Conclusion
-    * ### [Python Tuples](https://github.com/Akhila232004/python-core-language/blob/main/python-tuples/python_tuples.md)
+    * ### [Python Tuples](https://github.com/Akhila232004/python-core-language/blob/main/python-tuples/md/python_tuples.md)
         * Creating Tuples
         * Accessing Elements in Tuples
         * Accessing Nested Tuple Elements
@@ -98,7 +98,7 @@
         * Tuple Immutability
         * Tuples in Lists
         * Tuples Use Cases
-    * ### [Python Dictionaries](https://github.com/Akhila232004/python-core-language/blob/main/python-dictionaries/python_dictionaries.md)
+    * ### [Python Dictionaries](https://github.com/Akhila232004/python-core-language/blob/main/python-dictionaries/md/python_dictionaries.md)
         * Creating Dictionaries
         * Accessing Elements in Dictionaries
         * Accessing Nested Dictionary Elements
@@ -106,7 +106,7 @@
         * Dictionary Methods
         * Dictionary Comprehensions
         * Conclusion
-    * ### [Conversions Between Lists, Tuples and Dictionaries](https://github.com/Akhila232004/python-core-language/blob/main/conversions-between-lists-tuples-and-dictionaries/conversions_between_lists_tuples_and_dictionaries.md)
+    * ### [Conversions Between Lists, Tuples and Dictionaries](https://github.com/Akhila232004/python-core-language/blob/main/conversions-between-lists-tuples-and-dictionaries/md/conversions_between_lists_tuples_and_dictionaries.md)
         * List to Tuple
         * List to Dictionary
         * List of Tuples to Dictionary
@@ -119,7 +119,7 @@
         * Dictionary to List of Keys or Values
         * Dictionary to a Tuple of Lists
         * Conclusion
-    * ### [Conditional Decision Making](https://github.com/Akhila232004/python-core-language/blob/main/conditional-decision-making/conditional_decision_making.md)
+    * ### [Conditional Decision Making](https://github.com/Akhila232004/python-core-language/blob/main/conditional-decision-making/md/conditional_decision_making.md)
         * `if` Statement
         * `if-else` Statement
         * `if-elif-else` Statement
@@ -127,7 +127,7 @@
         * Short-Hand `if` Statement
         * Use of Logical Operators In Conditional Statements
         * Conclusion
-    * ### [Iterative Loops](https://github.com/Akhila232004/python-core-language/blob/main/iterative-loops/iterative_loops.md)
+    * ### [Iterative Loops](https://github.com/Akhila232004/python-core-language/blob/main/iterative-loops/md/iterative_loops.md)
         * `for` Loop
         * `while` Loop
         * Nested Loops
@@ -140,7 +140,7 @@
         * Looping Through Index
         * Use Cases of Iterative Loops
         * Conclusion
-    * ### [Python Functions](https://github.com/Akhila232004/python-core-language/blob/main/python-functions/python_functions.md)
+    * ### [Python Functions](https://github.com/Akhila232004/python-core-language/blob/main/python-functions/md/python_functions.md)
         * Function Structure
         * Defining a Function
         * Calling a Function
@@ -167,7 +167,7 @@
         * Lambda Functions/Anonymous functions
         * Use Cases of Functions
         * Conclusion
-    * ### [Python Exceptions](https://github.com/Akhila232004/python-core-language/blob/main/python-exceptions/python_exceptions.md)
+    * ### [Python Exceptions](https://github.com/Akhila232004/python-core-language/blob/main/python-exceptions/md/python_exceptions.md)
         * Exception Hierarchy
             * BaseException
             * Exception
@@ -182,7 +182,7 @@
         * Custom Exceptions
         * Conclusion
 * ### Python Object Oriented Programming
-    * ### [Python OOP](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/python-oop/python_oop.md)
+    * ### [Python OOP](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/python-oop/md/python_oop.md)
         * Class
         * Object
         * Constructor
@@ -191,13 +191,13 @@
         * Inheritance
         * Polymorphism
         * Conclusion
-    * ### [OOP Inheritance](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/oop-inheritance/oop_inheritance.md)
+    * ### [OOP Inheritance](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/oop-inheritance/md/oop_inheritance.md)
         * Multiple Inheritance
         * Multi-Level Inheritance
         * Inheritance Overriding
         * Inheritance Super Function
         * Inheritance With Constructors
-    * ### [OOP BuiltIns](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/oop-builtins/oop_builtins.md)
+    * ### [OOP BuiltIns](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/oop-builtins/md/oop_builtins.md)
         * `__init__` Method
         * `__del__` Method
         * `__str__` Method
