@@ -44,7 +44,7 @@
             * Reassign and Delete
             * Syntax Variations
         * Variable Naming Rules
-    * ### [Python Operators](https://github.com/Akhila232004/python-core-language/blob/main/python-operators/python_operators.md)
+    * ### [Python Operators](https://github.com/Akhila232004/python-core-language/blob/main/python-operators/md/python_operators.md)
         * Arithmetic Operators
         * Comparison Operators
         * Assignment Operators
