@@ -211,7 +211,7 @@
         * `__base__` and `__bases__` Attribute
         * `__dict__` Attribute
         * `__doc__` Attribute
-    * ### [Object Oriented Programming Vs Functional Programming](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/oop-vs-functional-programming/oop_vs_functional_programming.md)
+    * ### [Object Oriented Programming Vs Functional Programming](https://github.com/Akhila232004/python-object-oriented-programming/blob/main/oop-vs-functional-programming/md/oop_vs_functional_programming.md)
         * Create a Functional Programming code
         * Import and Instantiate Functional Code File
         * Create an Object Oriented Programming code
@@ -221,7 +221,7 @@
             * Object-Oriented Programming (Pros - Cons)
         * Conclusion
 * ### Python Modules
-    * ### [Modules](https://github.com/Akhila232004/python-modules/blob/main/modules/modules.md)
+    * ### [Modules](https://github.com/Akhila232004/python-modules/blob/main/modules/md/modules.md)
         * Creating a Module
         * Using a Module
         * Importing Module Content
@@ -229,7 +229,7 @@
         * Standard Library Modules
         * Packages
         * Benefits of Using Modules
-    * ### [Custom Module Folder](https://github.com/Akhila232004/python-modules/blob/main/custom-module-folder/custom_module_folder.md)
+    * ### [Custom Module Folder](https://github.com/Akhila232004/python-modules/blob/main/custom-module-folder/md/custom_module_folder.md)
         * Creating Custom Module Folder
         * Demonstration/Example for Creating Custom Module Folder
         * Custom module folder with `__all__` in `__init__.py` file
@@ -237,47 +237,47 @@
         * Custom Module Folder Executable and Import
         * `main()` Function
         * Accessing Module from a Path
-* ### [Python Libraries](https://github.com/Akhila232004/python-libraries/blob/main/python_libraries.md)
+* ### [Python Libraries](https://github.com/Akhila232004/python-libraries/blob/main/md/python_libraries.md)
     * Types of Python Libraries
     * Module vs Package vs Library
     * Summary
     * Conclusion
     * Standard & Third-Party Python Libraries/Modules
-        * [CSV Module](https://github.com/Akhila232004/python-libraries/blob/main/csv/csv.md)
-        * [Datetime Module](https://github.com/Akhila232004/python-libraries/blob/main/datetime/datetime.md)
-        * [File IO](https://github.com/Akhila232004/python-libraries/blob/main/fileio/fileio.md)
-        * [JSON Module](https://github.com/Akhila232004/python-libraries/blob/main/json/json.md)
-        * [Iterators and Generators](https://github.com/Akhila232004/python-libraries/blob/main/iterators-and-generators/iterators_and_generators.md)
-        * [Lambda](https://github.com/Akhila232004/python-libraries/blob/main/lambda/lambda.md)
-        * [Advanced Function Features](https://github.com/Akhila232004/python-libraries/blob/main/advanced-fuction-features/advanced_function_features.md)
-        * [Decorators](https://github.com/Akhila232004/python-libraries/blob/main/decorators/decorators.md)
-        * [Regular Expressions](https://github.com/Akhila232004/python-libraries/blob/main/regular-expressions/regular_expressions.md)
-        * [Multithreading](https://github.com/Akhila232004/python-libraries/blob/main/multithreading/multithreading.md)
-        * [ConfigParser](https://github.com/Akhila232004/python-libraries/blob/main/configparser/configparser.md)
-        * [Pickle](https://github.com/Akhila232004/python-libraries/blob/main/pickle/pickle.md)
-        * [Logging](https://github.com/Akhila232004/python-libraries/blob/main/logging/logging.md)
-        * [Argparse](https://github.com/Akhila232004/python-libraries/blob/main/argparse/argparse.md)
-        * [Collections](https://github.com/Akhila232004/python-libraries/blob/main/collections/collections.md)
-        * [JSONSchema](https://github.com/Akhila232004/python-libraries/blob/main/jsonschema/jsonschema.md)
-        * [CSVValidator](https://github.com/Akhila232004/python-libraries/blob/main/csvvalidator/csvvalidator.md)
-        * [XML](https://github.com/Akhila232004/python-libraries/blob/main/xml/xml.md)
-        * [XMLSchema](https://github.com/Akhila232004/python-libraries/blob/main/xmlschema/xmlschema.md)
-        * [Avro](https://github.com/Akhila232004/python-libraries/blob/main/avro/avro.md)
-        * [Requests](https://github.com/Akhila232004/python-libraries/blob/main/requests/requests.md)
-        * [Email](https://github.com/Akhila232004/python-libraries/blob/main/email/email.md)
-        * [Pytz](https://github.com/Akhila232004/python-libraries/blob/main/pytz/pytz.md)
-        * [Unittest](https://github.com/Akhila232004/python-libraries/blob/main/unittest/unittest.md)
-        * [Poetry](https://github.com/Akhila232004/python-libraries/blob/main/poetry/poetry.md)
-        * [Pytest](https://github.com/Akhila232004/python-libraries/blob/main/pytest/pytest.md)
-        * [Pandas](https://github.com/Akhila232004/python-libraries/blob/main/pandas/pandas.md)
-        * [`input()`](https://github.com/Akhila232004/python-libraries/blob/main/input/input.md)
-        * [`pyodbc`](https://github.com/Akhila232004/python-libraries/blob/main/pyodbc/pyodbc.md)
-        * [`cx_oracle`](https://github.com/Akhila232004/python-libraries/blob/main/cx_oracle/cx_oracle.md)
-        * [`pymysql`](https://github.com/Akhila232004/python-libraries/blob/main/pymysql/pymysql.md)
-        * [`psycopg2`](https://github.com/Akhila232004/python-libraries/blob/main/psycopg2/psycopg2.md)
-        * [`pymssql`](https://github.com/Akhila232004/python-libraries/blob/main/pymssql/pymssql.md)
-        * [MySQL Connection Pool](https://github.com/Akhila232004/python-libraries/blob/main/mysql-connection-pool/mysql_connection_pool.md)
-        * [Virtual ENV](https://github.com/Akhila232004/python-libraries/blob/main/virtual-env/virtual_env.md)
+        * [CSV Module](https://github.com/Akhila232004/python-libraries/blob/main/csv/md/csv.md)
+        * [Datetime Module](https://github.com/Akhila232004/python-libraries/blob/main/datetime/md/datetime.md)
+        * [File IO](https://github.com/Akhila232004/python-libraries/blob/main/fileio/md/fileio.md)
+        * [JSON Module](https://github.com/Akhila232004/python-libraries/blob/main/json/md/json.md)
+        * [Iterators and Generators](https://github.com/Akhila232004/python-libraries/blob/main/iterators-and-generators/md/iterators_and_generators.md)
+        * [Lambda](https://github.com/Akhila232004/python-libraries/blob/main/lambda/md/lambda.md)
+        * [Advanced Function Features](https://github.com/Akhila232004/python-libraries/blob/main/advanced-fuction-features/md/advanced_function_features.md)
+        * [Decorators](https://github.com/Akhila232004/python-libraries/blob/main/decorators/md/decorators.md)
+        * [Regular Expressions](https://github.com/Akhila232004/python-libraries/blob/main/regular-expressions/md/regular_expressions.md)
+        * [Multithreading](https://github.com/Akhila232004/python-libraries/blob/main/multithreading/md/multithreading.md)
+        * [ConfigParser](https://github.com/Akhila232004/python-libraries/blob/main/configparser/md/configparser.md)
+        * [Pickle](https://github.com/Akhila232004/python-libraries/blob/main/pickle/md/pickle.md)
+        * [Logging](https://github.com/Akhila232004/python-libraries/blob/main/logging/md/logging.md)
+        * [Argparse](https://github.com/Akhila232004/python-libraries/blob/main/argparse/md/argparse.md)
+        * [Collections](https://github.com/Akhila232004/python-libraries/blob/main/collections/md/collections.md)
+        * [JSONSchema](https://github.com/Akhila232004/python-libraries/blob/main/jsonschema/md/jsonschema.md)
+        * [CSVValidator](https://github.com/Akhila232004/python-libraries/blob/main/csvvalidator/md/csvvalidator.md)
+        * [XML](https://github.com/Akhila232004/python-libraries/blob/main/xml/md/xml.md)
+        * [XMLSchema](https://github.com/Akhila232004/python-libraries/blob/main/xmlschema/md/xmlschema.md)
+        * [Avro](https://github.com/Akhila232004/python-libraries/blob/main/avro/md/avro.md)
+        * [Requests](https://github.com/Akhila232004/python-libraries/blob/main/requests/md/requests.md)
+        * [Email](https://github.com/Akhila232004/python-libraries/blob/main/email/md/email.md)
+        * [Pytz](https://github.com/Akhila232004/python-libraries/blob/main/pytz/md/pytz.md)
+        * [Unittest](https://github.com/Akhila232004/python-libraries/blob/main/unittest/md/unittest.md)
+        * [Poetry](https://github.com/Akhila232004/python-libraries/blob/main/poetry/md/poetry.md)
+        * [Pytest](https://github.com/Akhila232004/python-libraries/blob/main/pytest/md/pytest.md)
+        * [Pandas](https://github.com/Akhila232004/python-libraries/blob/main/pandas/md/pandas.md)
+        * [`input()`](https://github.com/Akhila232004/python-libraries/blob/main/input/md/input.md)
+        * [`pyodbc`](https://github.com/Akhila232004/python-libraries/blob/main/pyodbc/md/pyodbc.md)
+        * [`cx_oracle`](https://github.com/Akhila232004/python-libraries/blob/main/cx_oracle/md/cx_oracle.md)
+        * [`pymysql`](https://github.com/Akhila232004/python-libraries/blob/main/pymysql/md/pymysql.md)
+        * [`psycopg2`](https://github.com/Akhila232004/python-libraries/blob/main/psycopg2/md/psycopg2.md)
+        * [`pymssql`](https://github.com/Akhila232004/python-libraries/blob/main/pymssql/md/pymssql.md)
+        * [MySQL Connection Pool](https://github.com/Akhila232004/python-libraries/blob/main/mysql-connection-pool/md/mysql_connection_pool.md)
+        * [Virtual ENV](https://github.com/Akhila232004/python-libraries/blob/main/virtual-env/md/virtual_env.md)
 
 ***
 | &copy; TINITIATE.COM |
