@@ -237,7 +237,7 @@
         * Custom Module Folder Executable and Import
         * `main()` Function
         * Accessing Module from a Path
-* ### [Python Libraries](https://github.com/Akhila232004/python-libraries/blob/main/md/python_libraries.md)
+* ### [Python Libraries](https://github.com/Akhila232004/python-libraries/blob/main/python_libraries.md)
     * Types of Python Libraries
     * Module vs Package vs Library
     * Summary
