@@ -6,7 +6,7 @@
 ## CONTENTS
 * ### [Introduction](./introduction.md)
 * ### Python Core Language
-    * ### [Python Print](https://github.com/Akhila232004/python-core-language/blob/main/python-print/python_print.md)
+    * ### [Python Print](https://github.com/Akhila232004/python-core-language/blob/main/python-print/md/python_print.md)
         * Syntax
         * Comments
             * Types of comments
@@ -19,7 +19,7 @@
             * Printing variables and numerics
             * Print ASCII and UNICODE strings
         * Conclusion
-    * ### [Python Datatypes](https://github.com/Akhila232004/python-core-language/blob/main/python-datatypes/python_datatypes.md)
+    * ### [Python Datatypes](https://github.com/Akhila232004/python-core-language/blob/main/python-datatypes/md/python_datatypes.md)
         * Built-in Python DataTypes
             * Numeric Types
                 * Integer
@@ -38,7 +38,7 @@
                 * Boolean
             * None Type
                 * None
-    * ### [Python Variables](https://github.com/Akhila232004/python-core-language/blob/main/python-variables/python_variables.md)
+    * ### [Python Variables](https://github.com/Akhila232004/python-core-language/blob/main/python-variables/md/python_variables.md)
         * Variable Declaration and Assignment
             * Simple Creation
             * Reassign and Delete
